@@ -1,1 +1,2 @@
-# leetcode_and
+# leetcode_andy
+## leetcode algorithm
